@@ -2,7 +2,7 @@
 Movie id Flutter Project
 
 # Preview
-<img src="https://user-images.githubusercontent.com/50306963/143522331-6307a962-fd56-4901-bc33-f403fd848a2d.png" alt="#" style="width:200px;"/>
+<img src="https://user-images.githubusercontent.com/50306963/143522331-6307a962-fd56-4901-bc33-f403fd848a2d.png" alt="#" style="width:500px;"/>
 
 ## Getting Started
 
