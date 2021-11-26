@@ -2,7 +2,7 @@
 App using find jobs with Provider State Management
 
 # Preview Project
-![Posting IG](https://user-images.githubusercontent.com/50306963/143522468-87ce65e1-133c-4de0-a9a5-1ca803df9780.png)
+<img src="https://user-images.githubusercontent.com/50306963/143522468-87ce65e1-133c-4de0-a9a5-1ca803df9780.png" alt="#" style="width:500px;"/>
 
 ## Getting Started
 This project is a starting point for a Flutter application.
