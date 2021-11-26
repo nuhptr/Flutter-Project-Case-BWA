@@ -1,6 +1,5 @@
-# bwa_cozy
-
-![Artboard 1@4x](https://user-images.githubusercontent.com/50306963/122430751-0df79f80-cfbe-11eb-9dc3-fafaf6663992.png)
+# BWA Flutter Kosan (Cozy)
+<img src="https://user-images.githubusercontent.com/50306963/122430751-0df79f80-cfbe-11eb-9dc3-fafaf6663992.png" alt="#" style="width:500px;"/>
 
 A new Flutter project.
 
