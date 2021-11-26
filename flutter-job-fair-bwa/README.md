@@ -1,9 +1,10 @@
-# bwa_flutter_jobs
+# BWA Flutter Jobs
+App using find jobs with Provider State Management
 
-A new Flutter project.
+# Preview Project
+![Posting IG](https://user-images.githubusercontent.com/50306963/143522468-87ce65e1-133c-4de0-a9a5-1ca803df9780.png)
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
