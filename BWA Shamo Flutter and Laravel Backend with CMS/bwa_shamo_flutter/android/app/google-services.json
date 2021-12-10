@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334671906008",
+    "project_id": "fios-app-8a60a",
+    "storage_bucket": "fios-app-8a60a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334671906008:android:d78cf2cd591d72726cc3ad",
+        "android_client_info": {
+          "package_name": "com.adi.fios_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334671906008-blopp7q3l4akjartn8ohq2edvc368c4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyMhGSrPzqcsLdElQE0sbEqQWBgZxpgrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334671906008-blopp7q3l4akjartn8ohq2edvc368c4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
